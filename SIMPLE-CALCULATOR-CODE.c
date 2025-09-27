@@ -29,7 +29,7 @@ int main(){
             break;
     }
         case 2:
-    {
+
             printf("\nTo SUBTRACT(-) two numbers(M-N)");
             printf("\nENTER M :-");
             scanf("%d", &M);
