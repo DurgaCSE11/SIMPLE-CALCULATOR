@@ -1,6 +1,6 @@
 body {
   font-family: 'Times New Roman', Times, serif;
-  background: linear-gradient(135deg, #060606, #343437);
+  background: linear-gradient(135deg, #000000, #343437);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -38,6 +38,7 @@ body {
 button {
   padding: 18px;
   font-size: 18px;
+  font-display: bold;
    border: 3px solid #000000;
   border-radius: 12px;
   cursor: pointer;
@@ -59,7 +60,7 @@ button:active {
   grid-column:  4 / 4;
   grid-row: 5 / 6;
   background: #FF9500;
-  height: 58px;
+  height: 62px;
 }
 
 .equal:hover {
